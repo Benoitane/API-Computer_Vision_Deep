@@ -1,5 +1,3 @@
-# Benoit Ané's README for Rakuten France Catalog code test
-
 ## Presentation
 
 In this project, you can find :
