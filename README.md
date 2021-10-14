@@ -11,7 +11,7 @@ In this project, you can find :
 
 - 1 txt file (requirements.txt)
 
-## How to make it works
+## How to make it work
 
 1) Put the downloaded folder where you want
 2) From your terminal : cd PATH_TO_THE_FOLDER
